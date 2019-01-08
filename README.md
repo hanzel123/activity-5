@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Ben Justin Montes</title>
+	<title>Hanzel</title>
 </head>
 <body style="text-align:center">
 	<h1>Coffee Vendo</h1>
